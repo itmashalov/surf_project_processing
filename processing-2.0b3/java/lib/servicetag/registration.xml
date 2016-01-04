@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<registration_data version="1.0">
+   <environment>
+      <hostname>seven64</hostname>
+      <hostId/>
+      <osName>Windows 7</osName>
+      <osVersion>6.1</osVersion>
+      <osArchitecture>amd64</osArchitecture>
+      <systemModel>VMware Virtual Platform</systemModel>
+      <systemManufacturer>VMware, Inc.</systemManufacturer>
+      <cpuManufacturer>GenuineIntel</cpuManufacturer>
+      <serialNumber>VMware-56 4d 06 b5 0e 09 29 b8-a6 77 94 bb fc a9 d6 99</serialNumber>
+   </environment>
+   <registry urn="urn:st:1c714bf1-52f7-4c6e-95b7-75fbe3897fef" version="1.0">
+      <service_tag>
+         <instance_urn>urn:st:095dc2d4-3292-4ee4-8be1-ebc9dad11fbd</instance_urn>
+         <product_name>Java SE 6 Development Kit</product_name>
+         <product_version>1.6.0_33</product_version>
+         <product_urn>urn:uuid:b58ef9a8-5ae8-11db-a023-080020a9ed93</product_urn>
+         <product_parent_urn>urn:uuid:fdc90b21-018d-4cab-b866-612c7c119ed3</product_parent_urn>
+         <product_parent>Java Platform Standard Edition 6 (Java SE 6)</product_parent>
+         <product_defined_inst_id>id=1.6.0_33-b03 amd64,dir=C:\jdk-1.6.0_33\jre</product_defined_inst_id>
+         <product_vendor>Sun Microsystems</product_vendor>
+         <platform_arch>amd64</platform_arch>
+         <timestamp>2012-07-23 02:22:05 GMT</timestamp>
+         <container>global</container>
+         <source>Windows JDK i586 installer</source>
+         <installer_uid>-1</installer_uid>
+      </service_tag>
+   </registry>
+</registration_data>
